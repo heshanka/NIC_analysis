@@ -2,8 +2,8 @@
 
 My first android application.
 
--Breaks down the (Sri Lankan)National Identification number to reveal a person's:
+-A simple app that breaks down the (Sri Lankan)National Identification number to reveal a person's:
     
-    > Date of Birth
+    > Date of Birth (age)
     > Gender
    
